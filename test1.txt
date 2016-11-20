@@ -1,1 +1,3 @@
 test1 file
+
+you can see the diff from staged file 
